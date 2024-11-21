@@ -1,0 +1,58 @@
+.navStyle {
+    margin-bottom: 40px;
+}
+
+.selectedLink {
+    color: blue !important;
+}
+
+th,
+td {
+    border: 3px solid black !important;
+    border-collapse: collapse !important;
+    color: rgb(100, 99, 99);
+    /* width: 200px; */
+
+}
+
+.productTable {
+    border: 3px solid black !important;
+    border-collapse: collapse !important;
+    width: 800px;
+    margin: auto;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.tdBold {
+    font-weight: bolder !important;
+    color: black;
+}
+
+.imagesProduct {
+    width: 100px;
+}
+
+h3,
+h4 {
+    text-align: center;
+}
+
+.divStyle {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+.divBtnSelectCategory {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btnSelectCategory {
+    margin-top: 20px;
+    display: inline-block;
+    padding: 8px 12px;
+    font-size: 16px;
+}
